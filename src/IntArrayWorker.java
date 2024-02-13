@@ -111,7 +111,7 @@ public class IntArrayWorker
         }
         System.out.println();
     }
-//
+
 
     /**
      * fill the array with a pattern
