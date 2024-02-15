@@ -50,7 +50,7 @@ public class PictureTester
         swan.edgeDetection(10);
         swan.explore();
     }
-
+    //
     public static void testKeepOnlyBlue
 
     /** Main method for testing.  Every class can have a main
