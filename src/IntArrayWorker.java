@@ -35,16 +35,13 @@ public class IntArrayWorker
         return large;
     }
 
-    public int getColTotal(int col){
+    public int getColTotal(int col) {
         int total = 0;
-        for(int[] tempArr: matrix){
-            for(int i = col; i < matrix[0].length; i++){
-                total += matrix[0][i];
-            }
+        for (int row = 0; row < matrix.length; row++) {
+            total += matrix[row][col];
         }
         return total;
     }
-
     /**
      * Method to return the total
      * @return the total of the values in the array

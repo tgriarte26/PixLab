@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea47bb25-8530-4f9a-a5c5-a0a6398927da" name="Changes" comment="AP CS PixLab, IntelliJ" />
+    <list default="true" id="ea47bb25-8530-4f9a-a5c5-a0a6398927da" name="Changes" comment="AP CS PixLab, IntelliJ">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntArrayWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntArrayWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PictureTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PictureTester.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IntArrayWorkerTester">
+  <component name="RunManager" selected="Application.PictureTester">
     <configuration name="ColorChooser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ColorChooser" />
       <module name="PixLab_IntelliJ" />
@@ -51,6 +55,13 @@
     </configuration>
     <configuration name="IntArrayWorkerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IntArrayWorkerTester" />
+      <module name="PixLab_IntelliJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Picture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Picture" />
       <module name="PixLab_IntelliJ" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,10 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PictureTester" />
+        <item itemvalue="Application.Picture" />
         <item itemvalue="Application.IntArrayWorkerTester" />
         <item itemvalue="Application.ColorChooser" />
         <item itemvalue="Application.PictureExplorer" />
-        <item itemvalue="Application.PictureTester" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707862246019</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="AP CS PixLab, IntelliJ">
+      <created>1707862328612</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707862328612</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
